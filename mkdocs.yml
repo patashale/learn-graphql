@@ -1,4 +1,7 @@
 site_name: Learn GraphQL
+site_url: https://www.patashale.in/learn-graphql/
+site_author: Patashale™
+site_description: Learn everything about GraphQL here at Patashale™.
 repo_url: https://github.com/patashale/learn-graphql
 repo_name: patashale/learn-graphql
 theme:
